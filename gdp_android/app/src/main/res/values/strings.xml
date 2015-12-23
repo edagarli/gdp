@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">股东派</string>
+    <string name="hello_world">最安全的理财平台</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">股东派</string>
+
+</resources>
